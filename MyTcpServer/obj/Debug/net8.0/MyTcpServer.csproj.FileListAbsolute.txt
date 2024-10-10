@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\bin\Debug\net8.0\MyTcpServer.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\bin\Debug\net8.0\MyTcpServer.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\bin\Debug\net8.0\MyTcpServer.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\bin\Debug\net8.0\MyTcpServer.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\bin\Debug\net8.0\MyTcpServer.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\refint\MyTcpServer.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\MyTcpServer.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpServer\obj\Debug\net8.0\ref\MyTcpServer.dll

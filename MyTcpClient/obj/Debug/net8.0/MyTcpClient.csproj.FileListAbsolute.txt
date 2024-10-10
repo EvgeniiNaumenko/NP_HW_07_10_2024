@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\bin\Debug\net8.0\MyTcpClient.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\bin\Debug\net8.0\MyTcpClient.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\bin\Debug\net8.0\MyTcpClient.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\bin\Debug\net8.0\MyTcpClient.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\bin\Debug\net8.0\MyTcpClient.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\refint\MyTcpClient.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\MyTcpClient.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\NetworkProg\NP_HW_07_10_2024\MyTcpClient\obj\Debug\net8.0\ref\MyTcpClient.dll
